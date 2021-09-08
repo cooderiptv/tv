@@ -1,1 +1,0 @@
-https://livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b2500000.m3u8?checkedby:coodertv#https://livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b2500000.m3u8?checkedby:coodertv
