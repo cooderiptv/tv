@@ -3,3 +3,21 @@
 https://raw.githubusercontent.com/cooderiptv/tv/main/vtv1.m3u8
 #EXTINF:0 group-title="VTV-VTVCab" tvg-id="       " tvg-logo="https://github.com/cooderiptv/logo/blob/main/VTV2.png?raw=true", VTV2
 https://raw.githubusercontent.com/cooderiptv/tv/main/vtv2.m3u8
+#EXTINF:0 group-title="VTV-VTVCab" tvg-id="       " tvg-logo="https://github.com/cooderiptv/logo/blob/main/VTV3.png?raw=true", VTV3
+https://raw.githubusercontent.com/cooderiptv/tv/main/vtv3.m3u8
+#EXTINF:0 group-title="VTV-VTVCab" tvg-id="       " tvg-logo="https://github.com/cooderiptv/logo/blob/main/VTV4.png?raw=true", VTV4
+https://raw.githubusercontent.com/cooderiptv/tv/main/vtv4.m3u8
+#EXTINF:0 group-title="VTV-VTVCab" tvg-id="       " tvg-logo="https://github.com/cooderiptv/logo/blob/main/VTV5.png?raw=true", VTV5
+https://raw.githubusercontent.com/cooderiptv/tv/main/vtv5.m3u8
+#EXTINF:0 group-title="VTV-VTVCab" tvg-id="       " tvg-logo="https://github.com/cooderiptv/logo/blob/main/VTV6.png?raw=true", VTV6
+https://raw.githubusercontent.com/cooderiptv/tv/main/vtv6.m3u8
+#EXTINF:0 group-title="VTV-VTVCab" tvg-id="       " tvg-logo="https://github.com/cooderiptv/logo/blob/main/VTV7.png?raw=true", VTV7
+https://raw.githubusercontent.com/cooderiptv/tv/main/vtv7.m3u8
+#EXTINF:0 group-title="VTV-VTVCab" tvg-id="       " tvg-logo="https://github.com/cooderiptv/logo/blob/main/VTV8.png?raw=true", VTV8
+https://raw.githubusercontent.com/cooderiptv/tv/main/vtv8.m3u8
+#EXTINF:0 group-title="VTV-VTVCab" tvg-id="       " tvg-logo="https://github.com/cooderiptv/logo/blob/main/VTV9.png?raw=true", VTV9
+https://raw.githubusercontent.com/cooderiptv/tv/main/vtv9.m3u8
+#EXTINF:0 group-title="VTV-VTVCab" tvg-id="       " tvg-logo="https://github.com/cooderiptv/logo/blob/main/VTV5TN.png?raw=true", VTV5 TÂY NGUYÊN
+https://raw.githubusercontent.com/cooderiptv/tv/main/vtv5tn.m3u8
+#EXTINF:0 group-title="VTV-VTVCab" tvg-id="       " tvg-logo="https://github.com/cooderiptv/logo/blob/main/VTV5TNB.png?raw=true", VTV5 TÂY NAM BỘ
+https://raw.githubusercontent.com/cooderiptv/tv/main/vtv5tnb.m3u8
