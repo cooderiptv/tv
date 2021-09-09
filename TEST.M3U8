@@ -21,3 +21,5 @@ https://raw.githubusercontent.com/cooderiptv/tv/main/vtv9.m3u8
 https://raw.githubusercontent.com/cooderiptv/tv/main/vtv5tn.m3u8
 #EXTINF:0 group-title="VTV-VTVCab" tvg-id="       " tvg-logo="https://github.com/cooderiptv/logo/blob/main/VTV5TNB.png?raw=true", VTV5 TÂY NAM BỘ
 https://raw.githubusercontent.com/cooderiptv/tv/main/vtv5tnb.m3u8
+#EXTINF:0 tvg-name="CCTV1", CCTV1
+https://raw.githubusercontent.com/cooderiptv/tv/main/CCTV1.m3u
