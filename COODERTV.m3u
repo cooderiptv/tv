@@ -64,6 +64,11 @@ https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab19/index.m3u8?md5=1AYGbWlzHNK
 #EXTINF:0 group-title="VTVcab" tvg-id="vtvcab20hd" tvg-logo="https://github.com/cooderiptv/logo/blob/main/vfamily.png?raw=true",  V FAMILY
 https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab20/index.m3u8?md5=-sx6Mn0Nya1J6PIsvSKbWQ&expires=2556118740
 
+#EXTINF:0 group-title="HBO GO" tvg-id="maxbyhbo" tvg-logo="https://github.com/cooderiptv/logo/blob/main/CINEMAX.png?raw=true",  CINEMAX 
+https://livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 group-title="HBO GO" tvg-id="hbohd" tvg-logo="https://github.com/cooderiptv/logo/blob/main/HBO.png?raw=true",  HBO
+https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
+
 #EXTINF:0 group-title="SCTV" tvg-id="sctv1hd" tvg-logo="https://github.com/cooderiptv/logo/blob/main/SCTV1.png?raw=true", SCTV1  
 https://e1.endpoint.cdn.sctvonline.vn/secure/sctv1/sd1/index.m3u8?md5=pGyKSYjrGrL2ZLYg-J8v_g&expires=2556118740
 #EXTINF:0 group-title="SCTV" tvg-id="sctv2hd" tvg-logo="https://github.com/cooderiptv/logo/blob/main/SCTV2.png?raw=true", SCTV2  
