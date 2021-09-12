@@ -8,23 +8,23 @@ link COODER TV hoạt động với App (Dream Player IPTV) còn app khác một
 #EXT- link group zalo (https://zalo.me/g/irpzkt310)
 
 #EXTINF:0 group-title="VTV" tvg-id="VTV1" tvg-logo="https://github.com/cooderiptv/logo/blob/main/VTV1.png?raw=true", VTV1
-https://e2.endpoint.cdn.sctvonline.vn/secure/vtv1/sd1/index.m3u8?md5=r3cR_0VU3XeTGbKYUfAKeg&expires=2556118740
+
 #EXTINF:0 group-title="VTV" tvg-id="VTV2" tvg-logo="https://github.com/cooderiptv/logo/blob/main/VTV2.png?raw=true", VTV2
-https://mutixx5hq1liv.akamaized.net/vtv2/vtv2@720p.m3u8?checkedby:coodertv
+https://raw.githubusercontent.com/cooderiptv/tv/main/vtv2.m3u8
 #EXTINF:0 group-title="VTV" tvg-id="VTV3" tvg-logo="https://github.com/cooderiptv/logo/blob/main/VTV3.png?raw=true", VTV3
-https://e2.endpoint.cdn.sctvonline.vn/secure/vtv3/sd1/index.m3u8?md5=0viycAot3fcc-DdoJ_O_bQ&expires=2556118740
+://raw.githubusercontent.com/cooderiptv/tv/main/vtv3.m3u8
 #EXTINF:0 group-title="VTV" tvg-id="VTV4" tvg-logo="https://github.com/cooderiptv/logo/blob/main/VTV4.png?raw=true", VTV4
-https://mutixx5hq1liv.akamaized.net/vtv4/vtv4@720p.m3u8?checkedby:coodertv
+https://raw.githubusercontent.com/cooderiptv/tv/main/vtv4.m3u8
 #EXTINF:0 group-title="VTV" tvg-id="VTV5" tvg-logo="https://github.com/cooderiptv/logo/blob/main/VTV5.png?raw=true", VTV5
-https://mutixx5hq1liv.akamaized.net/vtv5/vtv5@720p.m3u8?checkedby:coodertv
+https://raw.githubusercontent.com/cooderiptv/tv/main/vtv5.m3u8
 #EXTINF:0 group-title="VTV"  tvg-id="VTV6" tvg-logo="https://github.com/cooderiptv/logo/blob/main/VTV6.png?raw=true", VTV6
-https://e2.endpoint.cdn.sctvonline.vn/secure/vtv6/index.m3u8?md5=EKXsD_0mys7jvPVC9l3c3w&expires=2556118740
+https://raw.githubusercontent.com/cooderiptv/tv/main/vtv6.m3u8
 #EXTINF:0 group-title="VTV"  tvg-id="VTV7" tvg-logo="https://github.com/cooderiptv/logo/blob/main/VTV7.png?raw=true", VTV7
-https://e2.endpoint.cdn.sctvonline.vn/secure/vtv7/sd1/index.m3u8?md5=UGBMo9jL6pPPwChasD73Eg&expires=2556118740
+https://raw.githubusercontent.com/cooderiptv/tv/main/vtv7.m3u8
 #EXTINF:0 group-title="VTV" tvg-id="VTV8" tvg-logo="https://github.com/cooderiptv/logo/blob/main/VTV8.png?raw=true", VTV8
-https://mutixx5hq1liv.akamaized.net/vtv8/vtv8@720p.m3u8?checkedby:coodertv
+https://raw.githubusercontent.com/cooderiptv/tv/main/vtv8.m3u8
 #EXTINF:0 group-title="VTV" tvg-id="VTV9" tvg-logo="https://github.com/cooderiptv/logo/blob/main/VTV9.png?raw=true", VTV9
-https://mutixx5hq1liv.akamaized.net/vtv9/vtv9@720p.m3u8?checkedby:coodertv
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/VTV9-HD-1080p/playlist.m3u8
 #EXTINF:0 group-title="VTV"  tvg-id="vtv5hdtn" tvg-logo="https://github.com/cooderiptv/logo/blob/main/VTV5TN.png?raw=true", VTV5 TÂY NGUYÊN
 https://raw.githubusercontent.com/cooderiptv/tv/main/vtv5tn.m3u8
 #EXTINF:0 group-title="VTV" tvg-id="vtv5hdtnb" tvg-logo="https://github.com/cooderiptv/logo/blob/main/VTV5TNB.png?raw=true", VTV5 TÂY NAM BỘ
@@ -68,6 +68,12 @@ https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab20/index.m3u8?md5=-sx6Mn0Nya1
 https://livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 group-title="HBO GO" tvg-id="hbohd" tvg-logo="https://github.com/cooderiptv/logo/blob/main/HBO.png?raw=true",  HBO
 https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 group-title="HBO GO" tvg-id="       " tvg-logo="https://github.com/cooderiptv/logo/blob/main/HBO_HITS.png?raw=true",  HBO HITS
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+#EXTINF:0 group-title="HBO GO" tvg-id="       " tvg-logo="https://github.com/cooderiptv/logo/blob/main/HBO_FAMILY.png?raw=true",  HBO FAMILY
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
+#EXTINF:0 group-title="HBO GO" tvg-id="       " tvg-logo="https://github.com/cooderiptv/logo/blob/main/HBO_SIGNATURE.png?raw=true", HBO SIGNATURE 
+http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m3u8
 
 #EXTINF:0 group-title="SCTV" tvg-id="sctv1hd" tvg-logo="https://github.com/cooderiptv/logo/blob/main/SCTV1.png?raw=true", SCTV1  
 https://e1.endpoint.cdn.sctvonline.vn/secure/sctv1/sd1/index.m3u8?md5=pGyKSYjrGrL2ZLYg-J8v_g&expires=2556118740
