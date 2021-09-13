@@ -18,7 +18,7 @@ https://raw.githubusercontent.com/cooderiptv/tv/main/vtv7.m3u8
 #EXTINF:0 group-title="VTV" tvg-id="VTV8" tvg-logo="https://github.com/cooderiptv/logo/blob/main/VTV8.png?raw=true", VTV8
 https://raw.githubusercontent.com/cooderiptv/tv/main/vtv8.m3u8
 #EXTINF:0 group-title="VTV" tvg-id="VTV9" tvg-logo="https://github.com/cooderiptv/logo/blob/main/VTV9.png?raw=true", VTV9
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/VTV9-HD-1080p/playlist.m3u8
+https://livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 group-title="VTV"  tvg-id="vtv5hdtn" tvg-logo="https://github.com/cooderiptv/logo/blob/main/VTV5TN.png?raw=true", VTV5 TÂY NGUYÊN
 https://raw.githubusercontent.com/cooderiptv/tv/main/vtv5tn.m3u8
 #EXTINF:0 group-title="VTV" tvg-id="vtv5hdtnb" tvg-logo="https://github.com/cooderiptv/logo/blob/main/VTV5TNB.png?raw=true", VTV5 TÂY NAM BỘ
