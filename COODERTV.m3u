@@ -1,7 +1,7 @@
-#EXTM3U url-tvg="http://gg.gg/cooder-tv-epg"
+#EXTM3U url-tvg="http://gg.gg/cooder-tv-epg" tvg-name="Lịch phát sóng COODER TV"
+
 #EXTINF:0 group-title="BÓNG ĐÁ LIVE" tvg-id="  " tvg-logo="https://github.com/cooderiptv/logo/blob/main/AFC.jpg?raw=true", AFC 1
 http://livecdn.fptplay.net/afcchampion/afc01_2000.stream/chunklist.m3u8
-#EXTM3U url-tvg="http://megavie.live/schedule/epg.xml"
 #EXTINF:0 group-title="BÓNG ĐÁ LIVE" tvg-id="  " tvg-logo="https://github.com/cooderiptv/logo/blob/main/AFC.jpg?raw=true", AFC 2
 http://livecdn.fptplay.net/afcchampion/afc02_2000.stream/chunklist.m3u8
 #EXTINF:0 group-title="BÓNG ĐÁ LIVE" tvg-id="  " tvg-logo="https://github.com/cooderiptv/logo/blob/main/AFC.jpg?raw=true", AFC 3
