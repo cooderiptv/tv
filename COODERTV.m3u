@@ -209,8 +209,6 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHUNU-HD-1080p/playlist.m3u8
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-DULICH-HD-1080p/playlist.m3u8
 #EXTINF:0 group-title="HTV_HTVC" tvg-id="htvccanhachd" tvg-logo="https://github.com/cooderiptv/logo/blob/main/CA_NHAC.png?raw=true", CA NHẠC
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-CANHAC-HD-1080p/playlist.m3u8
-
-
 #EXTINF:0 group-title="TỔNG HỢP" tvg-id="vovtvhd" tvg-logo="https://raw.githubusercontent.com/cooderiptv/logo/main/vovtv.png", VOV TV
 https://live.truyenhinhdulich.vn/vovlive/tv1live.m3u8
 #EXTINF:0 group-title="TỔNG HỢP" tvg-id="ttxvnhd" tvg-logo="https://github.com/cooderiptv/logo/blob/main/vnews.png?raw=true", VNEWS
@@ -226,8 +224,7 @@ https://video.nhandan.thienvietjsc.net/live/nhandan720/chunklist_w573589440.m3u8
 #EXTINF:0 group-title="TỔNG HỢP"  tvg-id="       " tvg-logo="https://github.com/cooderiptv/logo/blob/main/hitv.png?raw=true", HITV
 https://live2cdn.todayplus.com.vn/sdb/smil:hitv.smil/chunklist_b1596000.m3u8
 #EXTINF:0 group-title="TỔNG HỢP"  tvg-id="       " tvg-logo="https://github.com/cooderiptv/logo/blob/main/youtv.png?raw=true", YOU TV
-https://live2cdn.todayplus.com.vn/sdb/smil:youtv.smil/chunklist_b1596000.m3u8
-
+https://livecdn.fptplay.net/sdb/youtv_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 group-title="ĐỊA PHƯƠNG" tvg-id="angiang" tvg-logo="https://github.com/cooderiptv/coodertv/blob/main/angiang.png?raw=true",  AN GIANG
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/ANGIANG-SD-ABR/HTV-ABR/ANGIANG-SD-720p/chunks.m3u8
 #EXTINF:0 group-title="ĐỊA PHƯƠNG" tvg-id="bariavungtau" tvg-logo="https://github.com/cooderiptv/coodertv/blob/main/vungtau.png?raw=true",  BÀ RỊA VŨNG TÀU 
