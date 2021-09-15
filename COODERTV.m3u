@@ -1,5 +1,4 @@
 #EXTM3U url-tvg="http://trada.info/epg.xml"
-
 #EXTINF:0 group-title="VTV" tvg-id="VTV1" tvg-logo="https://github.com/cooderiptv/logo/blob/main/VTV1.png?raw=true", VTV1
 https://livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b2500000.m3u8?checkedby:coodertv
 #EXTINF:0 group-title="VTV" tvg-id="VTV2" tvg-logo="https://github.com/cooderiptv/logo/blob/main/VTV2.png?raw=true", VTV2
