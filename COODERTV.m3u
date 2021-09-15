@@ -19,9 +19,17 @@ http://livecdn.fptplay.net/afcchampion/afc08_2000.stream/chunklist.m3u8
 http://livecdn.fptplay.net/afcchampion/afc09_2000.stream/chunklist.m3u8
 #EXTINF:0 group-title="BÓNG ĐÁ LIVE" tvg-id="  " tvg-logo="https://github.com/cooderiptv/logo/blob/main/AFC.jpg?raw=true", AFC10
 http://livecdn.fptplay.net/afcchampion/afc10_2000.stream/chunklist.m3u8
-
 #EXTINF:0 group-title="BÓNG ĐÁ LIVE" tvg-id="  " tvg-logo="https://github.com/cooderiptv/logo/blob/main/UEFA.jpg?raw=true", UEFA LIVE
 https://livecdn.fptplay.net/hdevent/uefa01_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 group-title="K+" tvg-id=" " tvg-logo="https://i.postimg.cc/gcKx3wHV/COODER-TV-KPHUS-1.webp.png", K+1
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/v9/prog_index.m3u8
+
+#EXTINF:0 group-title="K+" tvg-id=" " tvg-logo="https://i.postimg.cc/d3nDFXVH/COODER-TV-KPM.webp.png", K+PM
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/v9/prog_index.m3u8
+#EXTINF:0 group-title="K+" tvg-id=" " tvg-logo="https://i.postimg.cc/63ryjTJN/COODER-TV-KNS.webp.png", K+NS
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/v9/prog_index.m3u8
+#EXTINF:0 group-title="K+" tvg-id=" " tvg-logo="https://i.postimg.cc/d3JDzvwZ/COODER-TV-KPC.png", K+PC
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/v9/prog_index.m3u8
 
 #EXTINF:0 group-title="HBO GO" tvg-id="maxbyhbo" tvg-logo="https://github.com/cooderiptv/logo/blob/main/CINEMAX.png?raw=true",  CINEMAX 
 https://livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8
