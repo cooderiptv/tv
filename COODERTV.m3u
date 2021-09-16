@@ -1,8 +1,9 @@
-#EXTM3U url-tvg="http://gg.gg/cooder-tv-epg" tvg-name"Lịch phát sóng COODER TV"
+#EXTM3U url-tvg="http://gg.gg/cooder-tv-epg"
+#EXTINF:0 group-title="Cooder TV" tvg-id="  " tvg-logo="https://github.com/cooderiptv/logo/blob/main/UEFA.jpg?raw=true", COODER TV LIVE FOOTBALL 
+http://198.16.106.62:8278/streams/d/wwe_zero/playlist.m3u8
 
 #EXTINF:0 group-title="BÓNG ĐÁ LIVE" tvg-id="  " tvg-logo="https://github.com/cooderiptv/logo/blob/main/AFC.jpg?raw=true", AFC 1
 http://livecdn.fptplay.net/afcchampion/afc01_2000.stream/chunklist.m3u8
-#EXTM3U url-tvg="http://megavie.live/schedule/epg.xml"
 #EXTINF:0 group-title="BÓNG ĐÁ LIVE" tvg-id="  " tvg-logo="https://github.com/cooderiptv/logo/blob/main/AFC.jpg?raw=true", AFC 2
 http://livecdn.fptplay.net/afcchampion/afc02_2000.stream/chunklist.m3u8
 #EXTINF:0 group-title="BÓNG ĐÁ LIVE" tvg-id="  " tvg-logo="https://github.com/cooderiptv/logo/blob/main/AFC.jpg?raw=true", AFC 3
@@ -22,8 +23,7 @@ http://livecdn.fptplay.net/afcchampion/afc09_2000.stream/chunklist.m3u8
 #EXTINF:0 group-title="BÓNG ĐÁ LIVE" tvg-id="  " tvg-logo="https://github.com/cooderiptv/logo/blob/main/AFC.jpg?raw=true", AFC10
 http://livecdn.fptplay.net/afcchampion/afc10_2000.stream/chunklist.m3u8
 
-#EXTINF:0 group-title="BÓNG ĐÁ LIVE" tvg-id="  " tvg-logo="https://github.com/cooderiptv/logo/blob/main/UEFA.jpg?raw=true", UEFA LIVE
-https://livecdn.fptplay.net/hdevent/uefa01_hls.smil/chunklist_b2500000.m3u8
+
 
 #EXTINF:0 group-title="HBO GO" tvg-id="maxbyhbo" tvg-logo="https://github.com/cooderiptv/logo/blob/main/CINEMAX.png?raw=true",  CINEMAX 
 https://livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8
@@ -39,6 +39,75 @@ https://raw.githubusercontent.com/cooderiptv/tv/main/HBO-SIG.m3u8
 
 #EXTINF:0 group-title="HBO GO" tvg-id="       " tvg-logo="https://github.com/cooderiptv/logo/blob/main/HBO_FAMILY.png?raw=true",  HBO FAMILY
 https://raw.githubusercontent.com/cooderiptv/tv/main/HBO-FAMILY.m3u8
+
+#EXTINF:0 group-title="IN THE BOX" tvg-id="boxmovie1" tvg-logo="https://github.com/cooderiptv/logo/blob/main/BOX-MOVIES.png?raw=true",  BOX MOVIES 
+https://e4.endpoint.cdn.sctvonline.vn/secure/boxmovie1/sd1/index.m3u8?md5=x2aVyF4ODqD23-IuA2MPlg&expires=2556118740
+
+#EXTINF:0 group-title="IN THE BOX" tvg-id="     " tvg-logo="https://github.com/cooderiptv/logo/blob/main/BOXMUSIC.png?raw=true", BOX MUSIC
+https://e4.endpoint.cdn.sctvonline.vn/secure/boxmusic/index.m3u8?md5=pR0QrkdxGuSRmHtTGT028A&expires=2556118740
+
+#EXTINF:0 group-title="IN THE BOX" tvg-id="woman" tvg-logo="https://github.com/cooderiptv/logo/blob/main/WOMAN.png?raw=true", WOWOAN
+https://e4.endpoint.cdn.sctvonline.vn/secure/woman/index.m3u8?md5=nYLg_liiJXqdWAdw4D1wzw&expires=2556118740
+
+#EXTINF:0 group-title="IN THE BOX" tvg-id="     " tvg-logo="https://github.com/cooderiptv/logo/blob/main/PLANET.png?raw=true", PLANET EARTH
+https://e4.endpoint.cdn.sctvonline.vn/secure/planetearth/index.m3u8?md5=6LuAM_K-RRvmm5Vq-zMaZw&expires=2556118740
+
+#EXTINF:0 group-title="IN THE BOX" tvg-id="drfithd" tvg-logo="https://github.com/cooderiptv/logo/blob/main/DrFITS.png?raw=true", DR.FIT
+https://e4.endpoint.cdn.sctvonline.vn/secure/drfit/index.m3u8?md5=E5-H8WhpHUBeWV3JzaD5ng&expires=2556118740
+
+#EXTINF:0 group-title="IN THE BOX" tvg-id="happykids" tvg-logo="https://github.com/cooderiptv/logo/blob/main/HPKIDS.png?raw=true", HAPPY KIDS 
+https://e4.endpoint.cdn.sctvonline.vn/secure/happykid/index.m3u8?md5=RoppAcvPHs-dCJI1jRxvgQ&expires=2556118740
+
+#EXTINF:0 group-title="KHÁM PHÁ" tvg-id="     " tvg-logo="https://github.com/cooderiptv/logo/blob/main/LOVE-NATURE.png?raw=true", LOVE NATURE HD
+http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
+#EXTINF:0 group-title="KHÁM PHÁ" tvg-id="Animal Planet" tvg-id="animalhd" tvg-logo="https://github.com/cooderiptv/logo/blob/main/ANIMALS.png?raw=true", ANIMAL PLANET 
+https://livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 group-title="KHÁM PHÁ" tvg-id="discoveryhd" tvg-id="discovery" tvg-logo="https://github.com/cooderiptv/logo/blob/main/DISCOVERY.png?raw=true", DISCOVERY 
+https://livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 group-title="KHÁM PHÁ" tvg-id="discoveryasiahd" tvg-logo="https://github.com/cooderiptv/logo/blob/main/DISCOVERY-ASIA.jpg?raw=true", DISCOVERY ASIA
+https://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 group-title="KHÁM PHÁ" tvg-id="     " tvg-logo="https://github.com/cooderiptv/logo/blob/main/travelxp.png?raw=true", TRAVEL XP
+https://travelxp-travelxp-1-au.samsung.wurl.com/manifest/3000.m3u8
+#EXTINF:0 group-title="KHÁM PHÁ" tvg-id="outdoorhd" tvg-logo="https://github.com/cooderiptv/logo/blob/main/OUTDOOR.jpg?raw=true", OUTDOOR 
+https://livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 group-title="KHÁM PHÁ" tvg-id="ngchd" tvg-logo="https://github.com/cooderiptv/logo/blob/main/NGC.png?raw=true", NATIONAL GEOGRAPHIC
+https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 group-title="KHÁM PHÁ" tvg-id="ngwhd" tvg-logo="https://github.com/cooderiptv/logo/blob/main/NGCWILD.png?raw=true", NATGEO WILD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/playlist.m3u8
+#EXTINF:0 group-title="KHÁM PHÁ" tvg-id="tlchd" tvg-logo="https://github.com/cooderiptv/logo/blob/main/TLC.png?raw=true",TLC
+https://livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 group-title="KHÁM PHÁ" tvg-id="historyhd" tvg-logo="https://github.com/cooderiptv/logo/blob/main/HISTORY.png?raw=true", HISTORY 
+https://smart-tv.livedoomovie.com/02_HISTORYHD_720p/chunklist.m3u8
+#EXTINF:0 group-title="KHÁM PHÁ" tvg-id="     " tvg-logo="https://github.com/cooderiptv/logo/blob/main/HISTORY-2.PNG?raw=true", H2
+https://smart-tv.livedoomovie.com/02_H2HD_720p/chunklist.m3u8
+#EXTINF:0 group-title="KHÁM PHÁ" tvg-id="hgtvhd" tvg-logo="https://github.com/cooderiptv/logo/blob/main/HGTV.png?raw=true", HGTV
+http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
+
+#EXTINF:0 group-title="KHÁM PHÁ" tvg-id="bbcearth" tvg-id="BBC Earth HD" tvg-logo="https://github.com/cooderiptv/logo/blob/main/BBCE.png?raw=true", BBC EARTH 
+https://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u
+#EXTINF:0 group-title="KHÁM PHÁ" tvg-id="bbclifestyle" tvg-logo="https://github.com/cooderiptv/logo/blob/main/BBCL.png?raw=true", BBC LIFETYLE
+https://livecdn.fptplay.net/sdb/bbclifestyle_2000.stream/chunklist.m3u8
+
+#EXTINF:0 group-title="KÊNH THIẾU NHI" tvg-id="disney" tvg-logo="https://github.com/cooderiptv/logo/blob/main/DISNEY.png?raw=true", DISNEY
+https://qlobbidev.s.llnwi.net/bpk-tv/DISNEYCHANNEL/hls/DISNEYCHANNEL-audio_128052_und=128000-video=2900000.m3u8
+#EXTINF:0 group-title="KÊNH THIẾU NHI" tvg-id="disneyjunior" tvg-logo="https://github.com/cooderiptv/logo/blob/main/DISNEY_JUNIOR.png?raw=true", DISNEY JUNIOR 
+https://qlobbidev.s.llnwi.net/bpk-tv/DISNEYJUNIOR/hls/DISNEYJUNIOR-audio_129224_spa=128000-video=2900000.m3u8
+#EXTINF:0 group-title="KÊNH THIẾU NHI" tvg-id="       " tvg-logo="https://github.com/cooderiptv/logo/blob/main/DISNEY_XD.png?raw=true", DISNEY XD
+https://qlobbidev.s.llnwi.net/bpk-tv/DISNEYXD/hls/DISNEYXD-audio_129324_und=128000-video=2900000.m3u8
+#EXTINF:0 group-title="KÊNH THIẾU NHI" tvg-id="Cartoon Network" tvg-id="cartoonhd" tvg-logo="https://github.com/cooderiptv/logo/blob/main/CN.png?raw=true", CARTOON NETWORK
+https://livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 group-title="KÊNH THIẾU NHI" tvg-id="       " tvg-logo="https://github.com/cooderiptv/logo/blob/main/CN.png?raw=true", CARTOON NETWORK ARABIC
+https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_1.m3u8
+#EXTINF:0 group-title="KÊNH THIẾU NHI" tvg-id="animaxhd" tvg-logo="https://github.com/cooderiptv/logo/blob/main/ANIMAX.png?raw=true", ANIMAX
+https://livecdn.fptplay.net/hda3/animaxport_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 group-title="KÊNH THIẾU NHI" tvg-id="boomerang" tvg-logo="https://github.com/cooderiptv/logo/blob/main/boomerang.png?raw=true", BOOMERANG
+https://livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 group-title="KÊNH THIẾU NHI" tvg-id="cbeebies" tvg-logo="https://github.com/cooderiptv/logo/blob/main/CBeebies.png?raw=true", CBEEBIES
+https://livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 group-title="KÊNH THIẾU NHI" tvg-id="babyfirst" tvg-logo="https://github.com/cooderiptv/logo/blob/main/babyfirst.jpg?raw=true", BABY FIRST
+https://livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 group-title="KÊNH THIẾU NHI" tvg-id="davinci" tvg-logo="https://github.com/cooderiptv/logo/blob/main/Da-Vinci.png?raw=true", DA VINCI
+https://livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8
 
 
 #EXTINF:0 group-title="VTV" tvg-id="VTV1" tvg-logo="https://github.com/cooderiptv/logo/blob/main/VTV1.png?raw=true", VTV1
