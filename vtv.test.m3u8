@@ -1,0 +1,6 @@
+#EXTM3U
+#EXTINF:0 group-title="VTV" tvg-id="VTV1" tvg-logo="https://github.com/cooderiptv/logo/blob/main/VTV1.png?raw=true", VTV1
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; Redmi Note 7 Build/QKQ1.190910.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/94.0.4606.71 Mobile Safari/537.36"
+https://livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b2500000.m3u8?token=zaltv.com
+#EXTINF:0 group-title="VTV" tvg-id="VTV2" tvg-logo="https://github.com/cooderiptv/logo/blob/main/VTV2.png?raw=true", VTV2
+https://livecdn.fptplay.net/hda1/vtv2_vhls.smil/chunklist_b2500000.m3u8
